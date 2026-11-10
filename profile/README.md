@@ -34,7 +34,7 @@ QR codes for both addresses are at [reseam.app/donate](https://reseam.app/donate
 
 ## Repositories
 
-These are read-only mirrors of [git.reseam.app](https://git.reseam.app/reseam). Open issues and pull requests there.
+These are read-only mirrors of [git.reseam.app](https://git.reseam.app/reseam). For requests and bug reports, use [reseam.app/requests](https://reseam.app/requests/).
 
 | Repository | What it is |
 |---|---|
